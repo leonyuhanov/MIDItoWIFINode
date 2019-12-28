@@ -4,6 +4,7 @@ Receive MIDI Serial data from a hardware MIDI device and Transmit over WIFI with
 Curtesy of Sparkfuns MIDI guide https://learn.sparkfun.com/tutorials/midi-tutorial/all
 
 This is the MIDI OUT port of the Bheringer BCR2000
+
 <img src="https://github.com/leonyuhanov/MIDItoWIFINode/blob/master/midi-labeled.png" width="400" />
 
 PIN 4 is the DATA OUT pin that connects into D1
